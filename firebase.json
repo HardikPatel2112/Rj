@@ -1,0 +1,9 @@
+{
+  "hosting": {
+    "site": "rjkapadwanj-8876d",
+    "public": "public"
+  },
+  "database": {
+    "rules": "database.rules.json"
+  }
+}
